@@ -1,6 +1,0 @@
-﻿  Queue.cpp
-c:\users\administrator\desktop\trees\queue.cpp(105): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-c:\users\administrator\desktop\trees\queue.cpp(126): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-c:\users\administrator\desktop\trees\queue.cpp(143): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-VisualTree.obj : error LNK2005: _main already defined in Queue.obj
-C:\Users\Administrator\Desktop\Trees\Debug\Visual Tree SFML Project.exe : fatal error LNK1169: one or more multiply defined symbols found
