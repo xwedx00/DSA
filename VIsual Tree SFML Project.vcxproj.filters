@@ -15,10 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="VisualTree.cpp">
+    <ClCompile Include="Queue.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="LRU-Queue.cpp">
+    <ClCompile Include="VisualTree.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
