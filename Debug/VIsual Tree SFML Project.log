@@ -1,0 +1,5 @@
+﻿  VisualTree.cpp
+c:\users\administrator\desktop\trees\visualtree.cpp(8): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+c:\users\administrator\desktop\trees\visualtree.cpp(364): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\administrator\desktop\trees\visualtree.cpp(424): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+  VIsual Tree SFML Project.vcxproj -> C:\Users\Administrator\Desktop\Trees\Debug\Visual Tree SFML Project.exe
