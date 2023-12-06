@@ -1,7 +1,1 @@
-﻿  BFS.cpp
-c:\users\administrator\desktop\trees\bfs.cpp(19): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
-          with
-          [
-              T=float
-          ]
-  VIsual Tree SFML Project.vcxproj -> C:\Users\Administrator\Desktop\Trees\Debug\Visual Tree SFML Project.exe
+﻿
