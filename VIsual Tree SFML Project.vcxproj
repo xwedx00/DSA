@@ -19,6 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="BFS.cpp" />
     <ClCompile Include="Queue.cpp" />
     <ClCompile Include="VisualTree.cpp" />
   </ItemGroup>
